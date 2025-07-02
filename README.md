@@ -23,10 +23,3 @@ A simple Django web application that displays real-time weather information usin
 
 ---
 
-## 📦 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
